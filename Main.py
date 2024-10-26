@@ -3,8 +3,7 @@ import streamlit as st
 # Set page configuration
 st.set_page_config(
     page_title="Estate Insights",
-    page_icon="🏠",
-    layout="centered"
+    page_icon="🏠"
 )
 
 # Title and subtitle
@@ -38,4 +37,4 @@ Explore these features to make smarter real estate decisions, whether you are an
 
 # Footer
 st.markdown("---")
-st.markdown("© 2024 Estate Insights | All Rights Reserved", unsafe_allow_html=True)
+st.markdown("© 2024 Estate Insights | All Rights Reserved")
