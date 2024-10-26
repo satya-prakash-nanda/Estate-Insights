@@ -5,7 +5,6 @@ st.set_page_config(
     page_title="Estate Insights",
     page_icon="🏠",
     layout="centered",
-    # initial_sidebar_state="collapsed"
 )
 
 # Title and subtitle
